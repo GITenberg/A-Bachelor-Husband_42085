@@ -1,0 +1,45 @@
+_repo: A-Bachelor-Husband_42085
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Stahr, Paul
+    alias: Stahr, Paul C.
+    birthdate: &id001 1883
+    deathdate: 1953
+    gutenberg_agent_id: '24864'
+    url: http://www.gutenberg.org/2009/agents/24864
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ayres, Ruby M. (Ruby Mildred)
+    aliases:
+    - Ayres, Ruby Mildred
+    - Pocock, Ruby Mildred
+    birthdate: *id001
+    deathdate: 1955
+    gutenberg_agent_id: '7383'
+    url: http://www.gutenberg.org/2009/agents/7383
+description: Title; Contents; Chapter I; Chapter II; Chapter III; Chapter IV; Chapter
+  V; Chapter VI; Chapter VII; Chapter VIII; Chapter IX; Chapter X; Chapter XI; Chapter
+  XII; Chapter XIII; Chapter XIV; Chapter XV; Chapter XVI; Chapter XVI; Chapter XVIII;
+  Chapter XIX; Chapter XX; Chapter XXI; Chapter XXII; Chapter XXIII; Chapter XXIV;
+  Chapter XXV; Chapter XXVI; Chapter XXVII; L'envoi
+gutenberg_issued: '2013-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42085'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'PR'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Marriage -- Fiction'
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+title: A Bachelor Husband
+url: http://www.gutenberg.org/ebooks/42085
